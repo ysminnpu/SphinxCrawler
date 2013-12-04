@@ -3,6 +3,9 @@
 ##What's this?
 This is a web crawler that can crawl through any websites, download it's content and save it in Sphinx's realtime index.
 
+##Download
+https://github.com/olegserkov/crawler/raw/master/crawler-0.1-alpha.zip
+
 ##Features
 * crawl through website within specified domain
 * extract links from website
