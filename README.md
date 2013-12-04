@@ -32,6 +32,9 @@ Example: data/en.wikipedia.org/c/d/cd6c8f619fe02d9ea5d283cea1dfdefc.html
 ##Config
 Template config file is in archive and contains detailed comments for each directive.
 
+##Requirements
+Java version 7 or higher.
+
 ##Usage
 Settings for simple website.
 
