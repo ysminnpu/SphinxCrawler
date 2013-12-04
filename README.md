@@ -1,8 +1,5 @@
 #Sphinx-enabled web crawler
 
-##Download
-https://github.com/olegserkov/crawler/raw/master/crawler-0.1-alpha.zip
-
 ##What's this?
 This is a web crawler that can crawl through any websites, download it's content and save it in Sphinx's realtime index.
 
@@ -78,8 +75,6 @@ Don't forget to restart Sphinx.
     sphinxIndex     = simple_website
 	sphinxHost      = 127.0.0.1
 	sphinxPort      = 9306
-    compressContent = true
-    maxRate         = 3
     userAgent       = "Simple website crawler/1.0"
 	
     # Initial urls list, here can be multiple directives
