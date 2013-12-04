@@ -38,7 +38,7 @@ Java version 7 or higher.
 ##Usage
 Settings for simple website.
 
-###1. Unpack an archive
+###1. Unpack the archive
 
 ###2. Set up Sphinx's index:
 
