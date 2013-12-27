@@ -1,4 +1,4 @@
-#Sphinx-enabled web crawler
+#Crawler for Sphinx search engine
 
 ##What's this?
 This is a web crawler that can crawl through any websites, download it's content and save it in Sphinx's realtime index.
